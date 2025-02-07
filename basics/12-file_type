@@ -1,2 +1,3 @@
 #!/bin/bash
+touch /tmp/iamafile 
 echo /tmp/iamafile
