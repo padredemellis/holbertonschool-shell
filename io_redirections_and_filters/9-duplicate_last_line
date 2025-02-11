@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i '$d; $a\'$(tail -n 1 iacta) iacta
